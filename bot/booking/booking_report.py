@@ -1,3 +1,4 @@
+# This file contains class for getting data from search results
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.common.by import By
 
