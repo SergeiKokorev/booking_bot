@@ -1,3 +1,5 @@
+# This file main bot class Booking, for searching hotels
+
 import os
 
 from selenium import webdriver
