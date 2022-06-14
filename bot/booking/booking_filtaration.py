@@ -1,3 +1,5 @@
+# This file contain class for filtrating and sorting search results
+
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as ec
